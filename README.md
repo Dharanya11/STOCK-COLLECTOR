@@ -107,4 +107,4 @@ git branch -a
 - Push your work regularly to avoid losing changes
 
 ## Project Status
-Today is the first day of our Consultency project work
+Today is the first day of our Consultancy project work
